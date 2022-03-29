@@ -15,16 +15,16 @@ body {
 }
 
 .middle {
-    width: 600px;
-    height: 300px;
+    width: 500px;
+    height: 250px;
     margin: 6em auto;
     padding: 2em;
     background-color: #fff;
 }
 
 img {
-    width: 600px;
-    height: 300px;
+    width: 500px;
+    height: 250px;
     border-radius: 8px;
 }
 
