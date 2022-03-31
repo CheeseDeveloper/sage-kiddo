@@ -59,7 +59,7 @@ h1 {
     text-align: center;
 }
 
-.links > a {
+.links > a:hover {
     text-decoration: none;
     color: #E9934C;
 }
