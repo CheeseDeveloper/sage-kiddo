@@ -59,9 +59,9 @@ h1 {
     text-align: center;
 }
 
-a {
+.links > a {
     text-decoration: none;
-    color: #000000;
+    color: #E9934C;
 }
 
 p {
