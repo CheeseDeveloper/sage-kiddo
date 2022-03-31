@@ -76,3 +76,10 @@ p {
     font-size: 18px;
     font-weight: bold;
 }
+
+.warning {
+    padding: 74px;
+    margin: 0;
+    width: 300px;
+    height: 300px;
+}
