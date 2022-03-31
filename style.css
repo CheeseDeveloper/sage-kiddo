@@ -41,16 +41,6 @@ body {
     color: #000000;
 }
 
-.banner {
-    width: 100%;
-    display: block;
-}
-
-.banner > .bnr-img {
-    width: 100%;
-    display: block;
-}
-
 h1 {
     font-size: 24px;
     text-decoration: none;
