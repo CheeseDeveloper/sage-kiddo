@@ -41,6 +41,11 @@ body {
     color: #000000;
 }
 
+.logo > a:hover {
+    text-decoration: none;
+    color: #E9934C;
+}
+
 h1 {
     font-size: 24px;
     text-decoration: none;
