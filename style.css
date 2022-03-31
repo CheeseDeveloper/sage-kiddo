@@ -25,7 +25,9 @@ body {
 }
 
 .nav > li > a:hover {
+    text-decoration: none;
     color: #E9934C;
+    cursor: pointer;
 }
 
 .logo {
@@ -44,6 +46,7 @@ body {
 .logo > a:hover {
     text-decoration: none;
     color: #E9934C;
+    cursor: pointer;
 }
 
 h1 {
