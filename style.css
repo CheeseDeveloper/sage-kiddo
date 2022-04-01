@@ -87,8 +87,12 @@ p {
     font-weight: bold;
 }
 
-.prize {
-    width: 100%;
+center {
+    padding: 74px;
+    margin: 0;
+}
+
+center > img {
     padding: 74px;
     margin: 0;
 }
