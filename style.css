@@ -87,7 +87,7 @@ p {
     font-weight: bold;
 }
 
-center > img {
+img {
     padding: 95px;
-    margin: auto;
+    margin: 0 auto;
 }
