@@ -87,12 +87,7 @@ p {
     font-weight: bold;
 }
 
-center {
-    padding: 74px;
-    margin: 0;
-}
-
 center > img {
     padding: 74px;
-    margin: 0;
+    margin: auto;
 }
