@@ -87,7 +87,8 @@ p {
     font-weight: bold;
 }
 
-img {
+.prize {
+    width: 100%;
     padding: 74px;
-    margin: 0px;
+    margin: 0;
 }
